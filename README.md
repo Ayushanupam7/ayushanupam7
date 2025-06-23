@@ -1,12 +1,15 @@
 <!-- GitHub Profile README -->
 
+<!-- 📊 Profile Views (Top Right Corner Visual) -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=ayushanupam&label=Profile+Views&color=0A66C2&style=flat" alt="Profile Views" />
 </p>
 
+<!-- 👋 Intro -->
 <h1 align="center">👋 Hello, I'm <span style="color:#0A66C2"><strong>Ayush Anupam</strong></span></h1>
 <h3 align="center">💻 Full Stack Developer | 🧠 Curious Technophile | 🇮🇳 From India</h3>
 
+<!-- Typing Animation -->
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Code.+Debug.+Repeat.;Crafting+Clean+Code+Daily.;Building+User-Centric+Apps" 
@@ -16,7 +19,11 @@
 
 ---
 
-<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+<!-- 🧑‍💻 About Me -->
+<div align="center">
+  <img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+
+<div align="left">
 
 - 🔭 Currently building: **StudyMania - A Smart Productivity App**  
 - 🌱 Exploring: **Next.js | PostgreSQL | System Design**  
@@ -24,6 +31,9 @@
 - 📫 Reach me at: **ayushanupamofficial7@gmail.com**  
 - 🎯 Motto: *Learn. Build. Break. Repeat.*  
 - 😄 Fun Fact: *I reverse-engineer apps for fun and insight.*
+
+</div>
+</div>
 
 ---
 
@@ -69,7 +79,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:ayushanupam.dev@gmail.com">
+  <a href="mailto:ayushanupamofficial7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/ayushanupam">
