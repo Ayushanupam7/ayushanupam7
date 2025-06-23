@@ -1,5 +1,9 @@
 <!-- GitHub Profile README -->
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ayushanupam&label=Profile+Views&color=0A66C2&style=flat" alt="Profile Views" />
+</p>
+
 <h1 align="center">👋 Hello, I'm <span style="color:#0A66C2"><strong>Ayush Anupam</strong></span></h1>
 <h3 align="center">💻 Full Stack Developer | 🧠 Curious Technophile | 🇮🇳 From India</h3>
 
@@ -8,10 +12,6 @@
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Code.+Debug.+Repeat.;Crafting+Clean+Code+Daily.;Building+User-Centric+Apps" 
     alt="Typing Animation"
   />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushanupam&label=Profile+Views&color=0A66C2&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -84,7 +84,8 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/ayushanupam/ayushanupam/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/ayushanupam/ayushanupam/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
 
 ---
-
