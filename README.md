@@ -21,7 +21,7 @@
 - 🔭 Currently building: **StudyMania - A Smart Productivity App**  
 - 🌱 Exploring: **Next.js | PostgreSQL | System Design**  
 - 💬 Talk to me about: **React, REST APIs, UI/UX, DB Design**  
-- 📫 Reach me at: **ayushanupam.dev@gmail.com**  
+- 📫 Reach me at: **ayushanupamofficial7@gmail.com**  
 - 🎯 Motto: *Learn. Build. Break. Repeat.*  
 - 😄 Fun Fact: *I reverse-engineer apps for fun and insight.*
 
