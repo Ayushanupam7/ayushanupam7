@@ -5,8 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=ayushanupam&label=Profile+Views&color=0A66C2&style=flat" alt="Profile Views" />
 </p>
 
-<!-- 👋 Intro -->
-<h1 align="center">👋 Hello, I'm <span style="color:#0A66C2"><strong>Ayush Anupam</strong></span></h1>
+<!-- 👋 Intro with Name -->
+<h1 align="center">
+  <strong><span style="color:#0A66C2; font-size: 36px;">👋 Hello, I'm Ayush Anupam</span></strong>
+</h1>
+
 <h3 align="center">💻 Full Stack Developer | 🧠 Curious Technophile | 🇮🇳 From India</h3>
 
 <!-- Typing Animation -->
@@ -17,33 +20,26 @@
   />
 </p>
 
----
 
 <!-- 🧑‍💻 About Me -->
 <div align="center">
-  <img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+  <p>
+    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Coding GIF" />
+  </p>
 
-<div align="left">
-
-- 🔭 Currently building: **StudyMania - A Smart Productivity App**  
-- 🌱 Exploring: **Next.js | PostgreSQL | System Design**  
-- 💬 Talk to me about: **React, REST APIs, UI/UX, DB Design**  
-- 📫 Reach me at: **ayushanupamofficial7@gmail.com**  
-- 🎯 Motto: *Learn. Build. Break. Repeat.*  
-- 😄 Fun Fact: *I reverse-engineer apps for fun and insight.*
-
+  <p align="center">
+    🔭 Currently building: <strong>StudyMania - A Smart Productivity App</strong><br>
+    🌱 Exploring: <strong>Next.js | PostgreSQL | System Design</strong><br>
+    💬 Talk to me about: <strong>React, REST APIs, UI/UX, DB Design</strong><br>
+    📫 Reach me at: <strong>ayushanupamofficial7@gmail.com</strong><br>
+    🎯 Motto: <em>Learn. Build. Break. Repeat.</em><br>
+    😄 Fun Fact: <em>I reverse-engineer apps for fun and insight.</em>
+  </p>
 </div>
-</div>
 
----
+<hr />
 
-## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,postgresql,tailwind,git,vscode,figma&perline=6" alt="Tech Stack Icons" />
-</p>
-
----
 
 ## 🚀 Highlight Projects
 
@@ -53,40 +49,76 @@
 | [🌐 Dev Portfolio](https://your-portfolio.com) | Next.js, Tailwind | Sleek personal dev showcase |
 | [🔗 LinkShorty](https://github.com/ayushanupam/linkshorty) | Node.js, Express | Custom URL shortener + analytics |
 
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushanupam&show_icons=true&theme=tokyonight&count_private=true" width="47%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=ayushanupam&theme=tokyonight" width="47%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushanupam&theme=react-dark" width="90%" alt="Activity Graph" />
+  <a href="https://github.com/ayushanupam/studymania">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushanupam&repo=studymania&theme=radical" />
+  </a>
+  <a href="https://github.com/ayushanupam/linkshorty">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushanupam&repo=linkshorty&theme=radical" />
+  </a>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 What I Do
+
+- ⚛️ Build highly interactive **React-based frontends**  
+- 🔗 Design scalable **REST APIs & backend systems**  
+- 🛠 Craft clean UI with **Tailwind, CSS Modules, Figma**  
+- 📦 Architect databases using **PostgreSQL, Prisma, SQL**  
+- 🚀 Deliver full-stack products with **Next.js & Node.js**  
+- 🌐 Handle responsive & accessible design for **web apps**  
+- 📂 Follow Git best practices with **CI/CD & clean commits**  
+- 📋 Document and explain code to boost **team collaboration**
+
+---
+
+## 🧠 Tech Stack & Skills
+
+### 👨‍💻 Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css" />
+</p>
+
+### 🗄️ Backend & Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb,express" />
+</p>
+
+### 🎨 UI/UX & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,figma,vscode,git,github" />
+</p>
+
+### 💬 Soft Skills
+
+- 🧠 Problem Solving & Debugging  
+- 🗣 Communication & Teamwork  
+- 📚 Fast Learner & Adaptable  
+- 🎯 Self-Motivated with a Builder Mindset
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushanupam&theme=tokyonight&no-frame=true&title=MultiLanguage,Stars,Commits,Followers,Repositories" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushanupam&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushanupam&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📬 Connect With Me
 
 <p align="center">
   <a href="mailto:ayushanupamofficial7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/ayushanupam">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/ayushanupam">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
@@ -99,3 +131,10 @@
 </p>
 
 ---
+
+## 📜 Dev Quote
+
+<blockquote align="center">
+  <em>“First, solve the problem. Then, write the code.”</em><br/>
+  <strong>– John Johnson</strong>
+</blockquote>
