@@ -31,10 +31,11 @@
 <!--Tech Stack & Blog Section-->       
 <h2 align="center">🚀 Tᴇᴄʜ Sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ Wᴏʀᴋ</h2> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="Skills" src="./Skills_Animation_White.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ayushanupam/ayushanupam/blob/main/assets/Skills_Animation_Dark.gif?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ayushanupam/ayushanupam/blob/main/assets/Skills_Animation_White.gif?raw=true">
+  <img align="left" alt="Tech Stack Animation" src="https://github.com/ayushanupam/ayushanupam/blob/main/assets/Skills_Animation_White.gif?raw=true">
 </picture>
+
 <br/>
 
 <h3 align="left">🧠 Currently Exploring</h3>
