@@ -34,8 +34,8 @@ I'm a passionate Full Stack Developer with a love for React.js, Node.js, Firebas
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayushanupam7/ayushanupam7/main/Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayushanupam7/ayushanupam7/main/Skills_Animation_white.gif">
-  <img align="left" width="50%" src="https://raw.githubusercontent.com/Ayushanupam7/ayushanupam7/main/Skills_Animation_white.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="Skills_Animation_White.gif">
+  <img align="left" width="50%" src="Skills_Animation_White.gif" />
 </picture>
 
 <div align="left">
