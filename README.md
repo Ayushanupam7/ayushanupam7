@@ -62,8 +62,8 @@ I'm a passionate Full Stack Developer with a love for React.js, Node.js, Firebas
 <p align="center">
   <a href="mailto:ayushanupamofficial7@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="40" alt="Gmail"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/ayush-anupam-shrivastava/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/></a>&nbsp;
-  <a href="https://github.com/ayushanupam" target="_blank"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="40" alt="GitHub"/></a>&nbsp;
-  <a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitterx.png" width="40" alt="Twitter"/></a>&nbsp;
+  <a href="https://github.com/Ayushanupam7" target="_blank"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="40" alt="GitHub"/></a>&nbsp;
+  <a href="https://x.com/Ayushanupam77" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitterx.png" width="40" alt="Twitter"/></a>&nbsp;
   <a href="https://www.instagram.com/yourusername" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" alt="Instagram"/></a>&nbsp;
   <a href="https://ayushanupam.dev" target="_blank"><img src="https://img.icons8.com/color/48/000000/domain.png" width="40" alt="Portfolio Website"/></a>&nbsp;
   <a href="https://wa.me/yourphonenumber" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="40" alt="WhatsApp"/></a>
