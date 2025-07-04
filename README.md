@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Ayush Banner Image](./banner.png)
+![Ayush Banner Image](https://github.com/Ayushanupam7/ayushanupam7/commit/cb6bfcf2b2ab08638f912c486f9ba88c2224a820)
 
 <!-- Owl Mascot -->
 <div>
