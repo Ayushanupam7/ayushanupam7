@@ -20,7 +20,7 @@ I'm a passionate Full Stack Developer with a love for React.js, Node.js, Firebas
 - 💻 Developer of **StudyMania** — an academic planner with analytics  
 - 🧠 Focused on clean UI, fast APIs & practical UX  
 - ❤️ Contributor to open-source & community projects  
-- 📫 Reach me at [ayushanupam.dev@gmail.com](mailto:ayushanupam.dev@gmail.com)  
+- 📫 Reach me at [ayushanupamofficial7@gmail.com](mailto:ayushanupamofficial7@gmail.com)  
 
 <!-- Profile Views -->
 <p align="left">
