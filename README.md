@@ -47,7 +47,7 @@ I'm a passionate Full Stack Developer with a love for React.js, Node.js, Firebas
 
 ### 📌 Latest Projects:
 - 🧠 [StudyMania – Smart academic productivity tool](#)  
-- 💼 [DevDashboard – Developer analytics dashboard](#)  
+- 🛒 [AY Store – Discover Amazing Apps](#)  
 
 </div>
 
