@@ -1,16 +1,12 @@
-<!-- Banner -->
 ![Ayush Banner Image](banner1.jpeg)
 
-<!-- Owl Mascot -->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-<!-- Header -->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴀʏᴜsʜ!  
 **Digital Craftsman (Full Stack Developer / Technophile)**
 
-<!-- About -->
 <p align="left">
 I'm a passionate Full Stack Developer with a love for React.js, Node.js, Firebase, PostgreSQL, Tailwind CSS, and building delightful user experiences.
 </p>
@@ -22,14 +18,21 @@ I'm a passionate Full Stack Developer with a love for React.js, Node.js, Firebas
 - ❤️ Contributor to open-source & community projects  
 - 📫 Reach me at [ayushanupamofficial7@gmail.com](mailto:ayushanupamofficial7@gmail.com)  
 
-<!-- Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ayushanupam&label=Profile+Views&color=0A66C2&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <hr />
 
-<!-- Tech Stack -->
+<h2 align="center">💻 Tᴇᴄʜɴɪᴄᴀʟ Sᴋɪʟʟs</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,html,css,postgres,firebase,git,github,vscode,postman,zod,trpc" />
+  </a>
+</p>
+
+<hr />
+
 <h2 align="center">🚀 Tᴇᴄʜ Sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ Wᴏʀᴋ</h2>
 
 <picture>
@@ -55,9 +58,6 @@ I'm a passionate Full Stack Developer with a love for React.js, Node.js, Firebas
 
 <hr />
 
-
-
-<!-- Connect with Me -->
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ</h2>
 <p align="center">
   <a href="mailto:ayushanupamofficial7@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="40" alt="Gmail"/></a>&nbsp;
@@ -70,8 +70,6 @@ I'm a passionate Full Stack Developer with a love for React.js, Node.js, Firebas
 </p>
 
 
-<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" style="width:100%; height:auto;" />
 </p>
-
