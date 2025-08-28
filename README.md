@@ -64,7 +64,6 @@ I'm a passionate Full Stack Developer with a love for React.js, Node.js, Firebas
 </p>
 
 ---
-
 <!-- ========================================================= -->
 <!-- 🚀 Tech Stack & Latest Work -->
 <!-- ========================================================= -->
@@ -81,17 +80,24 @@ I'm a passionate Full Stack Developer with a love for React.js, Node.js, Firebas
   <img align="left" width="50%" src="Skills_Animation_White.gif" alt="Skills Animation" />
 </picture>
 
-
 <div align="left">
 
-### 🧠 Currently Exploring:
-- Next.js with server actions & file-based routing  
-- Type-safe APIs with tRPC & Zod  
-- PostgreSQL performance tuning  
+### 🧠 Currently Exploring & Learning:
+- 💻 **JavaScript (ES6+)** – Deep dive into concepts, DOM, and async programming  
+- 🎨 **UI/UX Design** – Prototyping & wireframing with **Figma** + creative design in **Photoshop**  
+- 🎬 **Video Editing** – Editing & motion effects using **Adobe Premiere Pro**, and mobile tools **VN** & **CapCut**  
+
+---
 
 ### 📌 Latest Projects:
-- 🧠 [StudyMania – Smart academic productivity tool](#)  
-- 🛒 [AY Store – Discover Amazing Apps](#)  
+- 🧠 **[StudyMania – Academic Productivity Platform](#)**  
+  *A smart planner with analytics, flashcards, and study tracking.*  
+  <sub>Stack: React, Node.js, PostgreSQL, Tailwind</sub>  
+
+- 🛒 **[AY Store – Web App Store](#)**  
+  *Discover, download & review apps with a modern Play Store–inspired UI.*  
+  <sub>Stack: HTML, CSS, JavaScript, Netlify</sub>  
+
 </div>
 
 <br clear="both"/>
