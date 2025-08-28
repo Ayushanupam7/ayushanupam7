@@ -71,10 +71,16 @@ I'm a passionate Full Stack Developer with a love for React.js, Node.js, Firebas
 <h2 align="center">🚀 Tᴇᴄʜ Sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ Wᴏʀᴋ</h2>
 
 <picture>
+  <!-- Dark mode image -->
   <source media="(prefers-color-scheme: dark)" srcset="Skills_Animation_Dark.gif">
+  
+  <!-- Light mode image -->
   <source media="(prefers-color-scheme: light)" srcset="Skills_Animation_White.gif">
-  <img align="left" width="50%" src="Skills_Animation_White.gif" />
+  
+  <!-- Fallback (if no preference set) -->
+  <img align="left" width="50%" src="Skills_Animation_White.gif" alt="Skills Animation" />
 </picture>
+
 
 <div align="left">
 
